@@ -1,7 +1,7 @@
 {
   "listen": ":36712",
-  "stream_buffer": 16777216,
-  "receive_buffer": 33554432,
+  "stream_buffer": 3407872,
+  "receive_buffer": 13631488,
   "auth": {
     "mode": "passwords"
   }
